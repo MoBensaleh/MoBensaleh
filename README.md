@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobensaleh&label=Profile%20views&color=0e75b6&style=flat" alt="mobensaleh" /> </p>
 
-- 👨‍💻 Check out my portfolio at [Mohamed Bensaleh](https://www.mohamedbensaleh.com/)
+- 👨‍💻 Check out my portfolio at [mohamedbensaleh.com](https://www.mohamedbensaleh.com/)
 
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/mohamedbensaleh/">LinkedIn</a></code>** **<code>[E-mail](mailto:mohamed.bensaleh@usask.ca)</code>**
 
