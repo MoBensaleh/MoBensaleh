@@ -1,10 +1,6 @@
-<h1 align="center">
-
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aniket+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
-
-</h1>
 <h1 align="center">Hi 👋, I'm Mohamed Bensaleh</h1>
 <h3 align="center">A passionate Computer Science student at the University of Saskatchewan</h3>
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aniket+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
 
 - 👨‍💻 Check out my portfolio at [https://www.mohamedbensaleh.com/](https://www.mohamedbensaleh.com/)
 
