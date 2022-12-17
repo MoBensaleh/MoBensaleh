@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Bensaleh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed Bensaleh</h1>
 <h3 align="center">A passionate Computer Science student at the University of Saskatchewan</h3>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
