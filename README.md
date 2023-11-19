@@ -9,7 +9,7 @@
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/mohamedbensaleh/">LinkedIn</a></code>** **<code>[E-mail](mailto:mohamed.bensaleh@usask.ca)</code>**
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,html,idea,java,js,bash,c,css,sass,docker,linux,md,mongodb,nuxtjs,nodejs,expressjs,py,react,vue,flutter,dart,webpack,bootstrap,ts,vscode,fastapi,unity,openshift,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,idea,java,js,bash,c,css,sass,docker,linux,md,mongodb,nuxtjs,nodejs,expressjs,py,react,vue,flutter,dart,webpack,bootstrap,ts,vscode,fastapi,unity,openshift,supabase,cypress,pytest,&perline=7)](https://skillicons.dev)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobensaleh&" alt="mobensaleh" /></p>
