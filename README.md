@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed Bensaleh</h1>
 <h3 align="center">a passionate ML Engineer from Calgary, AB</h3>
 <p>Hi there! 
-I'm primarily interested in full-stack development and currently work as a software engineer at @Pinterest. 📌 Previously, I was at @Amazon.
+I'm primarily interested in full-stack development and currently work as a ml engineer at @RBCBorealis. 📌 Previously, I was at @Omnee.
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 </p>
