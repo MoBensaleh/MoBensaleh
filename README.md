@@ -1,5 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed Bensaleh</h1>
-<h3 align="center">A passionate Computer Science student at the University of Saskatchewan</h3>
+<h3 align="center">a passionate ML Engineer from Calgary, AB</h3>
+<p>Hi there! 
+I'm primarily interested in full-stack development and currently work as a software engineer at @Pinterest. 📌 Previously, I was at @Amazon.
+
+I'm fascinated by large-scale, high-impact products and have worked on industry-leading services. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
+</p>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobensaleh&label=Profile%20views&color=0e75b6&style=flat" alt="mobensaleh" /> </p>
