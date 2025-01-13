@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohamed Bensaleh</h1>
 <h3 align="center">a passionate ML Engineer from Calgary, AB</h3>
-<p>Hi there! ![test](https://github.com/user-attachments/assets/ad016198-7a60-46eb-8df1-0abc4e526888)
+<p>Hi there! <img src="https://github.com/user-attachments/assets/ad016198-7a60-46eb-8df1-0abc4e526888" width="30px">
 
 I'm primarily interested in full-stack development and currently work as a ml engineer at [@RBCBorealis](https://rbcborealis.com/). 📌 Previously, I was at [@Omnee](https://www.omnee.ai/).
 
