@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moe Bensaleh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mo Bensaleh</h1>
 <h3 align="center">a passionate ML Engineer from Calgary, AB</h3>
 <p>Hi there! <img src="https://github.com/user-attachments/assets/ad016198-7a60-46eb-8df1-0abc4e526888" width="30px">
 
