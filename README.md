@@ -2,7 +2,7 @@
 <h3 align="center">a passionate ML Engineer from Calgary, AB</h3>
 <p>Hi there! <img src="https://github.com/user-attachments/assets/ad016198-7a60-46eb-8df1-0abc4e526888" width="30px">
 
-I'm primarily interested in machine learning & full-stack development and currently work as a ml engineer at [@BorealisAI](https://rbcborealis.com/). 📌 Previously, I was at [@RBC](https://www.rbc.com/about-rbc.html).
+I'm primarily interested in machine learning & full-stack development and currently work as a ml engineer at [@BorealisAI](https://rbcborealis.com/). 📌
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 </p>
