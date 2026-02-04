@@ -15,7 +15,7 @@ I'm fascinated by large-scale, high-impact products and have worked on industry-
 - 📫 How to reach me **<code><a href="https://www.linkedin.com/in/mohamedbensaleh/">LinkedIn</a></code>** **<code>[E-mail](mailto:mohamed.bensaleh@usask.ca)</code>**
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=git,html,idea,java,js,bash,c,css,sass,docker,linux,md,mongodb,nuxtjs,nodejs,expressjs,py,react,vue,flutter,dart,webpack,bootstrap,ts,vscode,fastapi,unity,openshift,supabase,jenkins,tensorflow,pytorch,cypress&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,idea,py,java,go,js,bash,c,css,sass,docker,linux,md,mongodb,nuxtjs,nodejs,expressjs,laravel,react,vue,flutter,dart,kubernetes,openshift,aws,azure,webpack,bootstrap,ts,vscode,fastapi,unity,supabase,jenkins,tensorflow,pytorch,opencv,kafka,elasticsearch,grafana,prometheus,cypress&perline=7)](https://skillicons.dev)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobensaleh&" alt="mobensaleh" /></p>
